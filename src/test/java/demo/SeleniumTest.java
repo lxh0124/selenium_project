@@ -12,7 +12,7 @@ public class SeleniumTest {
 
     @Test
     public void test() throws Exception {
-        System.setProperty("webdriver.chrome.driver", ".\\vendor\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", ".\\drivers\\chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
