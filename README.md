@@ -13,6 +13,7 @@
 
 ## Todo
 - Add Page Object
+- Add config.properties file for Chrome / Firefox driver
 - Implement Base Page Object
 - Call with PageFactory
 - Add the test report
