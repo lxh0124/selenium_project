@@ -1,4 +1,4 @@
-# Selenium Demo Project
+# Selenium Project
 
 ## Steps
 
