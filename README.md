@@ -13,5 +13,4 @@
 
 ## References
 
-### Drivers Download
-Firefox Driver: https://github.com/mozilla/geckodriver/releases/
+1, Firefox Driver: https://github.com/mozilla/geckodriver/releases/
