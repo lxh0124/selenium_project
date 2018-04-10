@@ -11,13 +11,6 @@
 
 1, Add util java to take window screenshot.
 
-## Todo
-- Add Page Object
-- Add config.properties file for Chrome / Firefox driver
-- Implement Base Page Object
-- Call with PageFactory
-- Add the test report
-
 ## References
 
 ### Drivers Download
