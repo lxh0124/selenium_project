@@ -10,3 +10,9 @@
 ## Drivers Download
 
 Firefox Driver: https://github.com/mozilla/geckodriver/releases/
+
+## Todo
+- Add Page Object
+- Implement Base Page Object
+- Call with PageFactory
+- Add the test report
